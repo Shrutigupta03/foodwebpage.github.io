@@ -1,0 +1,102 @@
+body{
+    width: auto;
+    height: auto;
+}
+
+#navbar{
+    flex-direction: column;
+    width: 100vw;
+}  
+
+#navbar ul li a{
+    padding: 1px 10px;
+    font-size: 12px;
+}
+
+#navbar::before{
+    height: 100%;
+}
+
+#home{
+    height: 100vh;
+    flex-direction: column;
+    padding: 1px 64px;
+}
+#home::before{
+    height: 100vh;
+}
+#home p{
+    font-size: 13px;
+}
+
+.btn{
+    font-size: 13px;
+}
+
+.h1primary{
+    font-size: 2.4rem;
+}
+
+.h1-primary-center{
+    font-size: 2.4rem;
+}
+
+#services{
+    flex-direction: column;
+    margin: 24px 17px;
+}
+
+#services .box{
+    padding: 15px;
+    margin: 20px 20px;
+    height: 330px;
+}
+
+.services-container{
+    margin-top: 17px;
+    height: 215vh;
+}
+
+#client-section{
+    height: 363px;
+}
+
+#clients{
+   flex-wrap: wrap;
+    margin-top: 58px;
+}
+#clients img{
+    height: 363px;
+}
+
+#microsoft img{
+    padding: 0px 8px;
+    width: auto;
+    height: 40px;
+}
+
+#skype img{
+    padding: 0px 8px;
+    width: auto;
+    height: 50px;
+}
+
+#apple img{
+    padding: 0px 8px;
+    width: auto;
+    height: 60px;
+}
+
+#hp img{
+    padding: 0px 8px;
+    width: auto;
+    height: 60px;
+}
+
+.client-item{
+    padding: 8px;
+}
+
+.center{
+    font-size: 10px;
+}
