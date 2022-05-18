@@ -30,11 +30,11 @@ body{
 }
 
 .btn{
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .h1primary{
-    font-size: 2.4rem;
+    font-size: 2.9rem;
 }
 
 .h1-primary-center{
@@ -54,7 +54,7 @@ body{
 
 .services-container{
     margin-top: 17px;
-    height: 200vh;
+    height: 150vh;
 }
 
 #client-section{
