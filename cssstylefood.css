@@ -160,6 +160,7 @@
     margin: 2px 20px;
     background: #f2f2f2;
     margin-bottom: 15px;
+    box-shadow: 5px 7px 16px 0px rgb(54 6 6);
 }
 
 #services .box img{
