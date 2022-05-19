@@ -52,6 +52,10 @@ body{
     height: 330px;
 }
 
+#services .box img{
+    height: 140px;
+}
+
 .services-container{
     margin-top: 17px;
     height: 200vh;
