@@ -27,7 +27,7 @@
 }
 
 #navbar{
-    position: sticky;
+    position: fixed;
     align-items: center;
     display: flex;
     top: -4px;
