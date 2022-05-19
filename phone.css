@@ -57,6 +57,10 @@ body{
     margin: auto;
 }
 
+#services .box .foodbox{
+   text-align: center;
+   justify-content: center;
+}
 .services-container{
     margin-top: 17px;
     height: 200vh;
