@@ -27,7 +27,7 @@
 }
 
 #navbar{
-    position: fixed;
+    position: sticky;
     align-items: center;
     display: flex;
     top: -4px;
@@ -78,7 +78,6 @@
 
 #home::before{
     content: "";
-    position: fixed;
     background: url('foodback.jpg') no-repeat center center/cover;
     height: 100vh;
     top: 0px;
