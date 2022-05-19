@@ -54,6 +54,7 @@ body{
 
 #services .box img{
     height: 140px;
+    margin: auto;
 }
 
 .services-container{
