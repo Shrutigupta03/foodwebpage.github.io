@@ -194,7 +194,6 @@
 }
 
 #contact{
-    position: relative;
     height: 95vh;
 }
 #contact::before{
