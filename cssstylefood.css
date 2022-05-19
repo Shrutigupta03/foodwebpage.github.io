@@ -79,6 +79,7 @@
 #home::before{
     content: "";
     background: url('foodback.jpg') no-repeat center center/cover;
+    position: fixed;
     height: 100vh;
     top: 0px;
     left: 0px;
