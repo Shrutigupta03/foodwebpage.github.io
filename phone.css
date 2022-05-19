@@ -49,7 +49,7 @@ body{
 #services .box{
     padding: 15px;
     margin: 23px 39px;
-    height: 330px;
+    height: 48vh;
 }
 
 #services .box img{
@@ -103,5 +103,5 @@ body{
 }
 
 .center{
-    font-size: 10px;
+    font-size: 12px;
 }
