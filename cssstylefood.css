@@ -201,7 +201,7 @@
     content: "";
     position: absolute;
     font-size: 3.8rem;
-    height: 90vh;
+    height: 95vh;
     width: 100%;
     z-index: -1;
     opacity: 1;
@@ -214,10 +214,13 @@
 }
 
 footer{
-    background: black;
+   background: black;
     color: white;
-    padding: 9px 20px;
-    margin-top: 66px;
+    padding: 13px 20px;
+    width: 100vw;
+    margin-top: 68px;
+    bottom: 0px;
+    position: fixed;
 }
 
 #contact-box{
